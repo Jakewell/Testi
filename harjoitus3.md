@@ -1,0 +1,1 @@
+i. Sisätilapaikannusta voi hyödyntää kampuksella esimerkiksi läsnäolotietojen ylläpidossa. Luokassa olevat oppilaat rekisteröityvät applikaation kautta automaattisesti läsnäolevaksi.
