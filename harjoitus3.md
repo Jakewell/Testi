@@ -23,3 +23,6 @@ ii. Järjestelmällä on monia käyttötapauksia.
 		Turvallisuus
 			-Isoveli voi valvoa kuka on missäkin, ja esim. vaaratilanteessa tiedetään kuka on vaarassa.
 		Vakoilu
+=======
+Lallaaaa
+
